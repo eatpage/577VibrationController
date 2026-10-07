@@ -1,0 +1,4 @@
+PySide6>=6.8
+numpy>=1.26
+PyAudioWPatch>=0.2.12      # WASAPI Loopback 采集 + 立体声输出
+pyinstaller>=6.10          # 仅打包时需要
